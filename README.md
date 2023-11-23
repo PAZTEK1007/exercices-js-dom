@@ -25,7 +25,7 @@ utilisez la commande suivante :
     ```
     git branch
     ```
-Pour voir les branches que possèdent ce repo.
+Pour voir les différentes branches.
 
 ## Comment utiliser ce référentiel
 
