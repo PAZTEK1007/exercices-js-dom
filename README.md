@@ -7,7 +7,7 @@ Ce référentiel contient une série d'exercices pour pratiquer la manipulation 
 1. Clonez ce référentiel sur votre machine locale en utilisant la commande suivante :
 
     ```bash
-    git clone https://github.com/votre-utilisateur/exercices-js-dom.git
+    git clone https://github.com/PAZTEK1007/exercices-js-dom.git
     ```
 
 2. Accédez au répertoire du projet :
